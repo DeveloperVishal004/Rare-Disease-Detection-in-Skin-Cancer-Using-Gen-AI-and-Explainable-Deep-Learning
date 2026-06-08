@@ -1,0 +1,13 @@
+## Dataset
+
+This project uses the HAM10000 dataset.
+
+Download:
+https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+
+After downloading, place the files in:
+
+data/
+├── HAM10000_images_part_1/
+├── HAM10000_images_part_2/
+└── HAM10000_metadata.csv
