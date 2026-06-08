@@ -455,7 +455,4 @@ visualize_overlay(image, heatmap)
 
 <div align="center">
 
-*This project is a research prototype. It is not validated for clinical use.*  
-*Always consult a qualified dermatologist for medical diagnosis.*
-
 </div>
